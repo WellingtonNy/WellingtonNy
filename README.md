@@ -49,8 +49,9 @@ Sinta-se à vontade para entrar em contato
 
 <div align="center">
     <a href="https://github.com/WellingtonNy">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WellingtonNy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonNy&layout=compact&langs_count=6&theme=dracula"/>
+        <br>
+<!--    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=WellingtonNy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonNy&langs_count=15&theme=dracula"/>
 </div>
 
   
